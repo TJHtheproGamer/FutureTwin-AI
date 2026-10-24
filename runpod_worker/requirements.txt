@@ -1,0 +1,4 @@
+# Install Torch separately from the CUDA 13.0 wheel index in the Dockerfile.
+sentence-transformers==6.1.0
+transformers==5.20.2
+runpod==1.8.1
