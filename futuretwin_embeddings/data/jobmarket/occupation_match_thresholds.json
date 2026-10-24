@@ -1,0 +1,10 @@
+{
+  "automatic_suggestions_enabled": false,
+  "reviewed_examples": 30,
+  "review_type": "Developer screening of real source titles, responsibilities and top-three local model outputs; not independent human validation",
+  "decision": "No confidence threshold is enabled. Role-level errors remain despite high cosine similarity. All semantic occupation assignments remain uncertain suggestions.",
+  "minimum_cosine": null,
+  "minimum_margin": null,
+  "review_notes": "Company introductions were removed where duty headings exist. Pilot examples still confused backend engineering with ICT sales, sales of training products with training management, and seniority with managerial occupations. Data Platform Architect returned data engineer (0.860), data warehouse designer (0.815), database designer (0.807); these are related candidates, not verified equivalence. Clinical Data Manager returned clinical informatics manager (0.834), medical records manager (0.756), clinical coder (0.724). A single cosine threshold cannot establish equivalence or a probability.",
+  "next_validation": "Independently label a representative occupation and region-stratified holdout with equivalent, related and incorrect categories, then select similarity and separation thresholds for a stated precision target. Until then report zero independently validated reliable semantic assignments."
+}

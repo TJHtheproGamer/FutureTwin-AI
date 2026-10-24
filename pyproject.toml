@@ -1,0 +1,37 @@
+[project]
+name = "futuretwin-embeddings"
+version = "0.1.0"
+description = "Local-model career exploration, skills passports, SDG discovery and benchmark evidence."
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "cryptography>=50.0.2",
+    "faster-whisper>=1.2.1",
+    "flask>=3.1.2",
+    "gunicorn>=23.0.0",
+    "numpy",
+    "pandas",
+    "psycopg[binary]",
+    "pypdf>=6.21.2",
+    "python-docx>=1.2.0",
+    "requests",
+    "sentence-transformers==6.1.0",
+    "torch==2.14.1",
+    "transformers",
+]
+
+# Keep the existing runtime build: stored exposure provenance includes its
+# precise torch version. Inference explicitly uses CPU; do not silently replace
+# this build with +cpu and invalidate the stored task-classification inventory.
+
+# Keep application dependencies on PyPI during Replit's generic `uv sync`.
+# The PyTorch wheel source is intentionally unchanged to preserve the locked
+# inference runtime and stored task-exposure provenance.
+[[tool.uv.index]]
+name = "pypi"
+url = "https://pypi.org/simple"
+default = true
+
+# Use the same official wheel and SHA-256 already recorded in uv.lock.
+# This avoids index discovery for this package; it does not change its version.
+[tool.uv.sources]
+sentence-transformers = { url = "https://files.pythonhosted.org/packages/b5/6e/9115e19589c83172bd37ec793cfef7f7c719464053fa6a8882700c1f4488/sentence_transformers-6.1.0-py3-none-any.whl" }

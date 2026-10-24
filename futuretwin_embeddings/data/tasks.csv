@@ -1,0 +1,38 @@
+task_id,occupation,task_text
+T0101,Software Developer,Locate and debug errors in software applications.
+T0102,Software Developer,Write and maintain automated software tests.
+T0103,Software Developer,Design the architecture of software systems.
+T0104,Software Developer,Review source code and recommend improvements.
+T0105,Software Developer,Write documentation for software functions and APIs.
+T0201,Accountant,Classify and reconcile financial transactions.
+T0202,Accountant,Prepare financial statements and accounting reports.
+T0203,Accountant,Review expense claims and detect discrepancies.
+T0204,Accountant,Interpret financial regulations and advise stakeholders.
+T0301,Graphic Designer,Create layouts and marketing graphics for digital campaigns.
+T0302,Graphic Designer,Edit photographs and enhance visual assets.
+T0303,Graphic Designer,Develop brand identities based on client requirements.
+T0304,Graphic Designer,Prepare graphics for print and digital publishing.
+T0401,Data Scientist,"Clean, transform and analyse structured datasets."
+T0402,Data Scientist,Train and evaluate predictive machine learning models.
+T0403,Data Scientist,Present analytical findings using charts and reports.
+T0404,Data Scientist,Build SQL queries to extract data from relational databases.
+T0501,Cybersecurity Analyst,Monitor system logs and detect unusual network behaviour.
+T0502,Cybersecurity Analyst,Investigate alerts and respond to suspected cyber incidents.
+T0503,Cybersecurity Analyst,Evaluate vulnerabilities and recommend security improvements.
+T0504,Cybersecurity Analyst,Document incidents and produce security assessment reports.
+T0601,Teacher,Design lesson plans for learners with different abilities.
+T0602,Teacher,Prepare quizzes and assessment questions for students.
+T0603,Teacher,Evaluate student work and provide feedback.
+T0604,Teacher,Facilitate classroom discussions and support student learning.
+T0701,Nurse,Document patient observations and clinical care notes.
+T0702,Nurse,Monitor patient condition and escalate urgent changes.
+T0703,Nurse,Administer medications following clinical protocols.
+T0704,Nurse,Provide patient education and emotional support.
+T0801,Civil Engineer,Inspect structural assets for visible signs of damage.
+T0802,Civil Engineer,Read construction plans and estimate required material quantities.
+T0803,Civil Engineer,Evaluate structural designs against safety requirements.
+T0804,Civil Engineer,Coordinate construction work and inspect site progress.
+T0901,Digital Marketing Specialist,Write advertising copy and promotional messages.
+T0902,Digital Marketing Specialist,Segment audiences for targeted marketing campaigns.
+T0903,Digital Marketing Specialist,Analyse campaign performance and conversion metrics.
+T0904,Digital Marketing Specialist,Plan digital content based on customer research.

@@ -1,0 +1,42 @@
+{
+  "scope": "Historical audit of the original futuretwin_distilbert.zip only. Active v2 provenance is checkpoint-bound and verified separately; see DISTILBERT-V2.md.",
+  "status": "training_lineage_unverified",
+  "training_label_contract_verified": false,
+  "checkpoint_config_mapping": {"0": "E0", "1": "E1", "2": "E2"},
+  "research_reference": {
+    "title": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+    "paper": "https://arxiv.org/abs/2303.10130",
+    "rubric_version_reviewed": "https://arxiv.org/html/2303.10130v2",
+    "repository": "https://github.com/openai/GPTs-are-GPTs",
+    "revision": "0471612fef3cc22b74fb884d27bff9dbd3770582",
+    "verified_as_paper_definitions_only": true,
+    "definitions": {
+      "E0": "No or minimal qualifying time reduction at equivalent quality, or quality falls.",
+      "E1": "LLM alone can reduce completion time by at least 50% while maintaining quality.",
+      "E2": "LLM alone does not meet the threshold, but complementary LLM-powered software could."
+    },
+    "e3_note": "The paper annotated image-related E3 separately and combined it into E2 for analysis. The checkpoint's training preprocessing is not supplied.",
+    "broad_share_if_lineage_verified": "100 * (n_E1 + n_E2) / n_all_classified_tasks",
+    "interpretation": "Potential task exposure under a time-saving rubric, not job replacement; E2 is not more dangerous than E1.",
+    "dataset": {
+      "path": "data/full_labelset.tsv",
+      "sha256": "094378905e1f3349e50a9a83dc69643a2ef227954d611c8316a46da08cb3d8de",
+      "rows": 19265,
+      "label_columns": ["human_exposure_agg", "gpt4_exposure", "gpt4_exposure_alt_rubric", "human_labels"],
+      "note": "Multiple distinct annotation targets exist. Matching class-code names does not identify which target, if any, trained this checkpoint."
+    }
+  },
+  "local_audit": {
+    "archive": "futuretwin_distilbert.zip",
+    "contents": "Configuration, weights, tokenizer and training_args.bin; no labelled dataset, model card or training/generation script.",
+    "training_args_policy": "Pickle artifact was not executed or unpickled.",
+    "other_training_data": "Existing anchor/positive sentence-pair files train MiniLM, not the E0/E1/E2 classifier.",
+    "result": "No verifiable link from uploaded checkpoint to the paper's annotation dataset or label-generation process."
+  },
+  "missing_evidence": [
+    "Original DistilBERT training notebook/script and labelled dataset or immutable dataset revision.",
+    "Selected target column and exact label-to-index transformation.",
+    "Handling of E3, missing labels, aggregation and any synthetic/relabelled examples."
+  ],
+  "verified_at": "2026-10-23"
+}

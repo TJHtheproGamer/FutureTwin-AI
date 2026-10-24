@@ -1,0 +1,39 @@
+{
+  "publisher": "Department of Statistics Malaysia",
+  "title": "Job Market Insights and My Job Profile, Third Quarter 2024",
+  "url": "https://www.dosm.gov.my/portal-main/release-content/big-data-analytics-job-market-insights-and-my-job-profile-q324",
+  "download_url": "https://www.dosm.gov.my/portal-main/release-document-log?release_document_id=18396",
+  "resolved_download_url": "https://www.dosm.gov.my/uploads/release-content/file_20260327201248.xlsx",
+  "terms_url": "https://www.dosm.gov.my/portal-main/article/term-of-use",
+  "license": "Government Open Data Terms of Use 1.0, via DOSM portal terms",
+  "attribution": "Data source: Department of Statistics Malaysia",
+  "endorsement_note": "FutureTwin's extraction and analysis are not endorsed by DOSM.",
+  "geography": "Malaysia",
+  "classification_system": "DOSM JMI published major occupation groups",
+  "classification_version": null,
+  "classification_note": "Workbook has group labels, not official occupation codes or a classification version. source_group_id is a FutureTwin source-row identifier, NOT an official MASCO/ISCO code.",
+  "retrieved_at": "2026-10-23T13:41:45.577848+00:00",
+  "source_sha256": "703468929bc0a16b8a71b16c20ad5a74bad112786c414b447b947b5e2ca22831",
+  "csv_sha256": "eb56e6808d15dc8338053bbc520465ae46307ef711eba6d3c1a09f44a18c3338",
+  "observation_count": 168,
+  "group_count": 8,
+  "period_start": "2019-Q3",
+  "period_end": "2024-Q3",
+  "verified_overlap_observations": 160,
+  "previous_release": {
+    "download_url": "https://www.dosm.gov.my/portal-main/release-document-log?release_document_id=16067",
+    "resolved_download_url": "https://www.dosm.gov.my/uploads/release-content/file_20250924161935.xlsx",
+    "sha256": "0eaba812b02705f7b69b14b84201f81bc51f2d2d23ff0a7e894357f9da3c5e40"
+  },
+  "exact_esco_mappings": 0,
+  "eligible_for_career_ranking": false,
+  "limitations": [
+    "Historical snapshot, not current Malaysian vacancies or complete market coverage.",
+    "Only eight published broad groups; no precise ESCO career observations or verified MASCO\u2013ESCO crosswalk.",
+    "No classification version is specified in the workbook; official occupation codes are not inferred.",
+    "Future/unobserved quarter zeros and Unclassified are excluded, not treated as real vacancies.",
+    "Q3 2024 occupation total cell AB34 is zero despite nonzero group cells. It is not imported.",
+    "Q3 release webpage repeats Q2 group prose; worksheet group cells, monthly sums and prior release are used.",
+    "Consistent historical source counts do not establish a fixed recruitment-site sampling frame."
+  ]
+}

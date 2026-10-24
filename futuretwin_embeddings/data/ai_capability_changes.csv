@@ -1,0 +1,9 @@
+capability,previous_best,latest_best,change,comparable,leading_model,previous_snapshot,latest_snapshot
+Agentic AI,57.9,57.9,0.0,True,"Claude Fable 5.1 (Max, Default Fallback)",capabilities_20261020_141823_369636.csv,capabilities_20261020_145124_979136.csv
+Coding,81.6,81.6,0.0,True,"Claude Fable 5.1 (Max, Default Fallback)",capabilities_20261020_141823_369636.csv,capabilities_20261020_145124_979136.csv
+Economics,65.6,65.6,0.0,True,"Claude Opus 5.5 (Max, Default Fallback)",capabilities_20261020_141823_369636.csv,capabilities_20261020_145124_979136.csv
+Engineering,60.4,60.4,0.0,True,"Claude Opus 5.5 (Max, Default Fallback)",capabilities_20261020_141823_369636.csv,capabilities_20261020_145124_979136.csv
+Finance,60.7,60.7,0.0,True,"Claude Opus 5.5 (Max, Default Fallback)",capabilities_20261020_141823_369636.csv,capabilities_20261020_145124_979136.csv
+Healthcare,60.5,60.5,0.0,True,"Claude Opus 5.5 (Max, Default Fallback)",capabilities_20261020_141823_369636.csv,capabilities_20261020_145124_979136.csv
+Legal,63.3,63.3,0.0,True,"Claude Opus 5.5 (Max, Default Fallback)",capabilities_20261020_141823_369636.csv,capabilities_20261020_145124_979136.csv
+Strategy,63.7,63.7,0.0,True,"Claude Opus 5.5 (Max, Default Fallback)",capabilities_20261020_141823_369636.csv,capabilities_20261020_145124_979136.csv

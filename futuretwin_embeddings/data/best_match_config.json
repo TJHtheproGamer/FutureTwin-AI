@@ -1,0 +1,15 @@
+{
+  "version": "best-match-three-factors",
+  "weights": {
+    "skill_compatibility": 65,
+    "ai_task_exposure": 25,
+    "ai_benchmark_evidence": 10
+  },
+  "skill_relation_weights": {
+    "essential": 0.7,
+    "optional": 0.3
+  },
+  "minimum_confirmed_skills_for_broader_profile": 3,
+  "benchmark_scoring_enabled": false,
+  "weight_status": "Initial configurable design weights; not empirically validated."
+}

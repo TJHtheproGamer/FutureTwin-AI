@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/1_Pooling/config.json",
+      "bytes": 90,
+      "sha256": "4fef0a7e8c8ee36e74c0fad89bab60ade72324442d43f559ea219bb7c2580710"
+    },
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/2_Normalize/config.json",
+      "bytes": 97,
+      "sha256": "cdb09dfca347a56aa2d691744e38d5ad3c7cbc2834e7181272b9a15328b82524"
+    },
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/README.md",
+      "bytes": 28686,
+      "sha256": "6434388fb9c104297a19894d85a56796ee67a7e8c32f8ba0e5ec848dc58c131a"
+    },
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/config.json",
+      "bytes": 746,
+      "sha256": "4211b854bf56ed77810b39844dc7aeac9a25495cfa62772cac3fedbcc25ab57e"
+    },
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/config_sentence_transformers.json",
+      "bytes": 283,
+      "sha256": "5055415da9369749b4347377218356efce9fdc5fffbcef97c7272fb893c4bc78"
+    },
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/model.safetensors",
+      "bytes": 90864192,
+      "sha256": "b7329ba32e6a0b0d539765fcdba06ea4850b4884a32d43606fa1ba4218734538"
+    },
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/modules.json",
+      "bytes": 413,
+      "sha256": "3d02572a0455b832de67fb8e63a54981bc7e8b46e337c95e917bd8122a533bfd"
+    },
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/sentence_bert_config.json",
+      "bytes": 241,
+      "sha256": "3084164002c0bca01b0259c5327123803fce32e660a57feb93184ffead186fc8"
+    },
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/tokenizer.json",
+      "bytes": 711649,
+      "sha256": "851ca67100d372ca3ae031a6abd168f53489eebfd7d89523f35c5c9b4d372c3c"
+    },
+    {
+      "path": "futuretwin_embeddings/models/futuretwin_minilm/tokenizer_config.json",
+      "bytes": 594,
+      "sha256": "4817907ff3846ed899a62cccad0193c21d0792130c6139d8362187153eeff283"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/evaluation.json",
+      "bytes": 1635,
+      "sha256": "0eb178322a31581d93fc37da5ad417c38959dcab6e864d3efe8afffdd7c175c4"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/final_model/config.json",
+      "bytes": 687,
+      "sha256": "3c6590b0d479322a8b682040e1dd2e90c314cca6d549a00144ead66ce1a64eed"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/final_model/label_provenance.json",
+      "bytes": 1713,
+      "sha256": "5bf768f123ed4c735f6b75007f25f857c42d1641ce2124a317290a769cb1d451"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/final_model/model.safetensors",
+      "bytes": 267835644,
+      "sha256": "8ad6ff6c9e0cba8379dd702d38338b8953efdeb67e70bd05264dbb9a2555475f"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/final_model/special_tokens_map.json",
+      "bytes": 125,
+      "sha256": "b6d346be366a7d1d48332dbc9fdf3bf8960b5d879522b7799ddba59e76237ee3"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/final_model/tokenizer.json",
+      "bytes": 711494,
+      "sha256": "96662bee05015f08354ccd05bf768f14c2431ae50d8b5761a6273411ad17cfea"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/final_model/tokenizer_config.json",
+      "bytes": 1227,
+      "sha256": "a3c9410f27554c6e26af779fd147e536c6c5f9e5cb0e6b8f38ddaa25e1b0f6af"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/final_model/vocab.txt",
+      "bytes": 231508,
+      "sha256": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/package_manifest.json",
+      "bytes": 1129,
+      "sha256": "93fecdf8457559d2f0cb28aabd893f997c154019539f3503210b514dd70015c7"
+    },
+    {
+      "path": "futuretwin_embeddings/models/distilbert_v2/training_manifest.json",
+      "bytes": 920,
+      "sha256": "e7d85cb7522fe1d60fc2e49fb52b85d3096dba90e32ebd0d4d57f53b542e2355"
+    },
+    {
+      "path": "generated-artifacts/onet_task_exposure.sqlite3",
+      "bytes": 30793728,
+      "sha256": "c2a699ad063ba3b4f2ec7c40acf7edac779a7b6b7031d024e59613983a208a00"
+    }
+  ]
+}

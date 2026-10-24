@@ -1,0 +1,68 @@
+{
+  "review_scope": "Assistant desk review of cited source text and exact ESCO skill relationships. Not independent human validation, UN endorsement or measured occupational impact.",
+  "reviewed_at": "2026-10-23",
+  "links": [
+    {
+      "id": "solar-lifecycle-12.5",
+      "occupation_uri": "http://data.europa.eu/esco/occupation/42dbb769-4c91-47dc-bd16-ec8e70c4180f",
+      "skill_uri": "http://data.europa.eu/esco/skill/05e5e14f-ffa6-4106-b311-c6335ccc2bd2",
+      "target_code": "12.5",
+      "strength": "indirect",
+      "direction": "mixed",
+      "relationship_scope": "technology_lifecycle_context",
+      "reason": "Solar PV systems create end-of-life waste, while collection, reuse and recycling can reduce that burden. IRENA/IEA-PVPS documents this technology-level trade-off. It is not evidence that a particular engineer causes harm or manages recycling, nor an estimate of Malaysia's current waste.",
+      "context_sources": [
+        {
+          "label": "IRENA / IEA-PVPS, End-of-Life Management: Solar Photovoltaic Panels (June 2016), executive summary",
+          "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2016/IRENA_IEAPVPS_End-of-Life_Solar_PV_Panels_2016.pdf",
+          "quote": "Sustainable end-of-life management policies for PV panels can be achieved through an enabling regulatory framework, along with the institutions needed to implement it."
+        }
+      ]
+    },
+    {
+      "id": "primary-teaching-4.1",
+      "occupation_uri": "http://data.europa.eu/esco/occupation/03d79393-7b30-4159-945b-01963eddd302",
+      "skill_uri": "http://data.europa.eu/esco/skill/383955b1-9059-47e4-9028-67bb2fdb6be6",
+      "target_code": "4.1",
+      "strength": "direct",
+      "direction": "positive",
+      "reason": "ESCO explicitly lists teaching primary education content. This activity addresses the primary-education component of target 4.1; it does not establish learning outcomes."
+    },
+    {
+      "id": "nursing-care-3.8",
+      "occupation_uri": "http://data.europa.eu/esco/occupation/8d3e8aaa-791b-4c75-a465-f3f827028f50",
+      "skill_uri": "http://data.europa.eu/esco/skill/1023ac61-250f-4eef-b7a9-238cf071685f",
+      "target_code": "3.8",
+      "strength": "direct",
+      "direction": "positive",
+      "reason": "Providing professional nursing care is an essential ESCO activity. It relates to access to essential health-care services in target 3.8, not proof of universal access or financial protection."
+    },
+    {
+      "id": "water-quality-6.1",
+      "occupation_uri": "http://data.europa.eu/esco/occupation/1ab184b6-de00-4476-ba1d-c6a71c668be3",
+      "skill_uri": "http://data.europa.eu/esco/skill/2f48c606-a936-46a4-9058-dd925973efd6",
+      "target_code": "6.1",
+      "strength": "direct",
+      "direction": "positive",
+      "reason": "ESCO describes treating water for safe drinking and lists water-quality measurement as essential. This addresses safe-water provision, not proof of affordable or equitable access."
+    },
+    {
+      "id": "solar-generation-7.2",
+      "occupation_uri": "http://data.europa.eu/esco/occupation/42dbb769-4c91-47dc-bd16-ec8e70c4180f",
+      "skill_uri": "http://data.europa.eu/esco/skill/05e5e14f-ffa6-4106-b311-c6335ccc2bd2",
+      "target_code": "7.2",
+      "strength": "direct",
+      "direction": "positive",
+      "reason": "ESCO describes designing systems that generate electricity from sunlight and lists solar energy as essential. This relates to renewable-energy production, not an observed change in Malaysia's energy mix."
+    },
+    {
+      "id": "renewable-generation-7.2",
+      "occupation_uri": "http://data.europa.eu/esco/occupation/0e99c929-364f-4b0a-8a64-2aab42420f00",
+      "skill_uri": "http://data.europa.eu/esco/skill/25fb676a-cf69-487d-a9c1-273c6f291b6a",
+      "target_code": "7.2",
+      "strength": "direct",
+      "direction": "positive",
+      "reason": "ESCO describes designing renewable-energy production systems and lists wind energy as essential. This is an activity-to-target association, not measured renewable deployment."
+    }
+  ]
+}

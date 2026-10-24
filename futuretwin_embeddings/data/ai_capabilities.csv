@@ -1,0 +1,25 @@
+capability_id,capability_text,evidence_status
+C01,AI agents can locate likely programming defects in source code.,hypothetical_demo
+C02,AI systems can generate software unit tests from code requirements.,hypothetical_demo
+C03,AI assistants can summarize and document software APIs.,hypothetical_demo
+C04,AI models classify bookkeeping transactions and detect reconciliation issues.,hypothetical_demo
+C05,AI systems extract anomalies from expense reports.,hypothetical_demo
+C06,Text-to-image models generate concepts for marketing artwork.,hypothetical_demo
+C07,AI photo editors can remove backgrounds and improve images.,hypothetical_demo
+C08,AI tools help clean datasets and detect missing values.,hypothetical_demo
+C09,AI systems produce draft SQL statements from natural-language requests.,hypothetical_demo
+C10,AI anomaly detectors spot suspicious network traffic.,hypothetical_demo
+C11,Language models draft classroom assessment questions.,hypothetical_demo
+C12,AI writing assistants summarize information from clinical notes.,hypothetical_demo
+C13,Computer vision algorithms flag cracks in photographs of structures.,hypothetical_demo
+C14,AI can extract estimated material quantities from engineering drawings.,hypothetical_demo
+C15,AI tools draft alternative advertising slogans.,hypothetical_demo
+C16,AI algorithms segment customer groups from transaction history.,hypothetical_demo
+C17,AI can identify trends and outliers in marketing campaign analytics.,hypothetical_demo
+C18,AI assists developers by reviewing source code for quality issues.,hypothetical_demo
+C19,AI can help generate narrative summaries of financial statements.,hypothetical_demo
+C20,AI models evaluate predictive data modelling approaches.,hypothetical_demo
+C21,AI systems classify cybersecurity alerts for investigation.,hypothetical_demo
+C22,AI can summarise security incidents into formal reports.,hypothetical_demo
+C23,AI assistants adapt draft lesson plans to different student levels.,hypothetical_demo
+C24,AI systems suggest improvements to marketing content strategy.,hypothetical_demo

@@ -1,0 +1,507 @@
+matched_capability,occupationUri,occupation,matched_skills,essential_matches,average_similarity,strongest_similarity
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b,software tester,7,4,0.48572764,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/33e4f026-a823-4ffc-99e4-60d3fe597a1e,digital games tester,6,3,0.4967207,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/52d5edc9-7902-4cd3-8b06-6bd77c98d440,ICT system tester,6,3,0.4967207,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/731f38f1-b08f-4dd5-a25e-f8627c038273,ICT integration tester,6,3,0.4967207,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/0ab5c12c-c1c1-4772-8345-aa287d0e391d,ICT test analyst,5,2,0.51260185,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5,ethical hacker,4,4,0.4612812,0.56276417
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7,application engineer,4,3,0.5202827,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/1c5a896a-e010-4217-a29a-c44db26e25da,embedded systems security engineer,4,3,0.48815572,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/50af07f0-7a75-424e-a66d-5a9deea10f4c,ICT accessibility tester,4,2,0.51998097,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/5f50290d-f520-4a69-85c7-1390d2a4a8b6,ICT usability tester,4,2,0.51998097,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/2ed56c3f-61d6-4f7e-9ef8-8849eb102e4c,mobile application developer,3,2,0.5061222,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02,embedded systems software developer,3,2,0.5061222,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/9ebaf3f0-0be0-47b7-b2b1-b3b04130fa81,digital games developer,3,2,0.5061222,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135,ICT system developer,3,2,0.5061222,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b,industrial mobile devices software developer,3,2,0.5061222,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7,ICT application developer,3,2,0.5061222,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d,web developer,3,2,0.5061222,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1,software developer,3,2,0.5061222,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/24135b84-cbdd-4d42-9ed2-02fd982d15b2,blockchain developer,2,2,0.5505257,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d,ICT application configurator,2,2,0.5505257,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/4874fa37-0cd1-4a68-aed8-a838851f242d,language engineer,2,2,0.49677664,0.56276417
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/dc8ef7da-d2c0-4474-96a0-6d0385eeec1e,webmaster,2,2,0.4644098,0.4754366
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7,ICT quality assurance manager,2,2,0.42578578,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/1c5a45b9-440e-4726-b565-16a952abd341,computer vision engineer,2,1,0.5505257,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c,user interface developer,2,1,0.5505257,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/3b1ea27c-781c-41eb-821f-214285260dd2,ICT change and configuration manager,2,0,0.45142722,0.48308533
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/349ee6f6-c295-4c38-9b98-48765b55280e,cloud engineer,1,1,0.6256148,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d,ICT network engineer,1,1,0.6256148,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/f49d893a-ac89-4f3b-b547-1cbdf4d69fde,forestry machinery technician,1,1,0.6256148,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/22585d1e-48aa-45a6-a8c3-d072b4ff1b31,media integration operator,1,1,0.4754366,0.4754366
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/98c3d8f8-e3a8-49b7-9e58-236f25a6f6a0,system configurator,1,1,0.45728853,0.45728853
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/30ca97f4-a4fd-4189-a781-ac08f6b09b78,call centre analyst,1,1,0.44735715,0.44735715
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/580c98d4-fb97-4597-864c-54140f058f1b,call centre quality auditor,1,1,0.44735715,0.44735715
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/ae3f1edd-d191-4a8d-8dfc-099dcdc6f1e8,record press operator,1,1,0.44616926,0.44616926
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/4daee8bd-8400-4da6-ba52-30d4c193d1a9,aviation ground systems engineer,1,1,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/5979893a-0a30-447b-8f33-1ea405600583,powertrain engineer,1,1,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319,quality engineering technician,1,1,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/a44a1dc5-be08-4840-8bd5-770c4ac1ca6d,ICT security technician,1,1,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/1f665529-96e9-46c1-99f4-9ffbf9ffa036,auditing clerk,1,1,0.40175936,0.40175936
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/a04eedcf-8424-475a-8dc5-f30a9da4b151,financial fraud examiner,1,1,0.40175936,0.40175936
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/bfe142b9-a049-4d41-89c4-fd2f34ac56b6,accounting assistant,1,1,0.40175936,0.40175936
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/c3aae59e-1441-4b3e-bdd1-6da50dc7cf42,bookkeeper,1,1,0.40175936,0.40175936
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/eda0d957-3c3c-4139-b89a-a18bc9e18897,accountant,1,1,0.40175936,0.40175936
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/0022f466-426c-41a4-ac96-a235c945cf97,air traffic safety technician,1,0,0.6256148,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/551a6797-3ca9-41fc-9dca-9a982a8fd8a6,robotics engineer,1,0,0.6256148,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/78faf623-2543-43a5-acb2-3c43a22d36e4,blockchain architect,1,0,0.6256148,0.6256148
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/61d9270c-491d-438d-8d41-77ba2e0ef023,product quality inspector,1,0,0.43530548,0.43530548
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/b0ad8659-0410-4b5b-9466-a90f8b3cdac9,product quality controller,1,0,0.43530548,0.43530548
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/dacaa18b-93f6-48b4-b4f2-cb33e21804e7,chemical manufacturing quality technician,1,0,0.43530548,0.43530548
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/0464b062-cea6-4164-b10d-956c61956ae7,ICT security administrator,1,0,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/1a165cb5-99ff-4a4e-9e08-97a0fb7ed6f8,offshore renewable energy technician,1,0,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/58db3ac6-5217-4d46-8a4c-126598be1d13,electric power generation engineer,1,0,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff,maintenance and repair engineer,1,0,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/a32187fa-bc37-4fc2-8e89-296632bfc271,onshore wind farm technician,1,0,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/ac37627c-a999-4779-997e-9795cc4f9a3d,power distribution engineer,1,0,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d,database developer,1,0,0.43425635,0.43425635
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/c0c1364d-f784-4e76-8d3f-1e998dc6545d,security alarm technician,1,0,0.41976914,0.41976914
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/102e75c8-3b47-4964-9b47-30a980aed25c,ICT disaster recovery analyst,1,0,0.41731519,0.41731519
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/276ba420-ef09-4a0e-b215-2c2e2f80ad28,chief ICT security officer,1,0,0.41731519,0.41731519
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/0bf68df5-e808-4c27-abf2-6f85440f2d7f,telephone switchboard operator,1,0,0.4073382,0.4073382
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/0ededdc2-050a-4ec3-8e70-6295105fcd19,call centre agent,1,0,0.4073382,0.4073382
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a,contact centre supervisor,1,0,0.4073382,0.4073382
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/aaeec9a7-dc57-4485-890c-86b3eef735f9,ICT help desk agent,1,0,0.4073382,0.4073382
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/b7b75eb6-34bc-462d-b412-eed393cc1397,customer contact centre information clerk,1,0,0.4073382,0.4073382
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/f5166c6b-3467-4fc4-9343-d12e870d9def,contact centre manager,1,0,0.4073382,0.4073382
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/fde97584-d8e3-413e-a662-511c9055357e,live chat operator,1,0,0.4073382,0.4073382
+Find and fix errors in software code,http://data.europa.eu/esco/occupation/1ad59946-d13e-441e-9b36-56e1df055e21,financial auditor,1,0,0.40175936,0.40175936
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b,software tester,9,4,0.53370476,0.61635363
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/731f38f1-b08f-4dd5-a25e-f8627c038273,ICT integration tester,8,5,0.5258759,0.61635363
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/52d5edc9-7902-4cd3-8b06-6bd77c98d440,ICT system tester,8,4,0.5258759,0.61635363
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0ab5c12c-c1c1-4772-8345-aa287d0e391d,ICT test analyst,7,5,0.5389406,0.61635363
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/33e4f026-a823-4ffc-99e4-60d3fe597a1e,digital games tester,6,3,0.5314406,0.61635363
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/50af07f0-7a75-424e-a66d-5a9deea10f4c,ICT accessibility tester,6,3,0.5314406,0.61635363
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5f50290d-f520-4a69-85c7-1390d2a4a8b6,ICT usability tester,6,3,0.5314406,0.61635363
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5979893a-0a30-447b-8f33-1ea405600583,powertrain engineer,5,3,0.5159029,0.55418235
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7,ICT quality assurance manager,4,3,0.54664063,0.61635363
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a44a1dc5-be08-4840-8bd5-770c4ac1ca6d,ICT security technician,3,3,0.4941189,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c0c1364d-f784-4e76-8d3f-1e998dc6545d,security alarm technician,3,2,0.50533134,0.5234157
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5,ethical hacker,3,2,0.4941189,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/e6800524-eec2-4c33-af0e-6f36d1d679bc,instrumentation engineer,3,0,0.5066696,0.51102066
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319,quality engineering technician,2,2,0.5130315,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4daee8bd-8400-4da6-ba52-30d4c193d1a9,aviation ground systems engineer,2,2,0.5080132,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/07dfff6d-a0d0-4202-a697-fe9176c15999,dependability engineer,2,2,0.504494,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471,ICT system analyst,2,2,0.50106645,0.51102066
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b7aa4b4e-dbb6-4f58-b36c-35b9a7267972,computer hardware repair technician,2,2,0.49215856,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0c448a27-10ec-43ba-b880-d9938bade424,digital forensics expert,2,2,0.4787212,0.4911122
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff,maintenance and repair engineer,2,1,0.5130315,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/9e2e6e1e-363b-4e1b-a673-7bc0f7343300,ICT system administrator,2,1,0.50918186,0.51102066
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d,electromagnetic engineer,2,1,0.504494,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/2296fa07-98ae-4875-b18d-96ed86134ffb,electronic equipment inspector,2,1,0.49628922,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/27811419-407f-4868-a388-2f7df7aafd91,electronics engineering technician,2,1,0.49628922,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/6656337f-67eb-4f48-b1e4-ecccdfa44dd2,automotive electrician,2,1,0.49628922,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b5e21e2b-ab0c-4c8d-8277-d98be4ad79c4,avionics inspector,2,1,0.49628922,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/d44c5eb0-fc6c-4f4a-9850-f2f29aaac505,electromechanical equipment assembler,2,1,0.49628922,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fd86ebe1-bad4-4486-9b76-01a48030e49a,rolling stock electrician,2,1,0.49628922,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d,database developer,2,0,0.5161286,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c8fa93eb-7c2c-42c3-b135-c2e825a6615e,test engineer,2,0,0.51359034,0.5357511
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/6fc8f605-98b9-4218-b5e2-91c4c9c55c4d,design engineer,2,0,0.504494,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7c2fbf7d-b934-4f62-8167-0ed90fb2a16f,rolling stock engineer,2,0,0.504494,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/994fe880-dc26-4f0f-a3cd-500709b6a665,precision engineer,2,0,0.504494,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7,application engineer,2,0,0.504494,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86,software analyst,2,0,0.50106645,0.51102066
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1d196f32-05ca-4ea5-a347-4fccbb3da863,marine electronics technician,2,0,0.49628922,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/555235ce-8c45-409b-a6c9-83e69c2d2bce,military engineer,2,0,0.49628922,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/6565dc02-14e4-4819-b99c-44c352000f43,electronic equipment assembler,2,0,0.49628922,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f,cybersecurity risk manager,2,0,0.4787212,0.4911122
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1c5a896a-e010-4217-a29a-c44db26e25da,embedded systems security engineer,1,1,0.5249142,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/d84bf1d7-ef99-40c4-a407-3791d6531b44,telecommunications engineering technician,1,1,0.51102066,0.51102066
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae,ICT system architect,1,1,0.51102066,0.51102066
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/01ffb917-98dc-48c1-91ad-93c4104e791d,biomedical engineer,1,1,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ba490796-46f7-45b7-827b-db6882fca3e1,onshore wind energy engineer,1,1,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c44c37a2-88c3-4ac2-9cf9-959f42deb02b,offshore renewable energy engineer,1,1,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/e8fca903-6590-48a8-8902-094bb41ee90c,autonomous driving specialist,1,1,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67,database integrator,1,1,0.507343,0.507343
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/000e93a3-d956-4e45-aacb-f12c83fedf84,metal drawing machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/02d4f153-8e43-444d-8bd4-8171d49eab12,gear machinist,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/05ae3e87-36ad-428f-a086-8a2ed458db3b,table saw operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/07d4a2fa-e278-4f32-8cf9-9c01fc660369,flexographic press operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0a7e24a8-19bd-4b45-83f0-f05d8fedf62d,riveter,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0ab64770-9fd7-4baf-8abf-b1ac0e1538ba,hydraulic forging press worker,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0ab77768-9031-4ccc-9ab8-1f73cbb36bc7,tissue paper perforating and rewinding operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0b6e1a0d-63fe-42d4-8dff-2ff187a9fea9,fluid power technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0e09c42d-bff2-4c35-8e1f-639a6dddaa5d,boring machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/16811760-fb2d-42cf-912d-2215f085898f,plasma cutting machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/17b29190-6746-4b81-a1d1-8053a5bbc0e9,solderer,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/18459eb0-5506-4692-9889-d1f9a2b989eb,engraving machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1a1ea837-0103-4230-8756-533a77c5f9f4,container equipment assembler,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1c25fdb4-c6e2-4118-99a5-519e9657a2bd,electrical equipment inspector,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1c5ec3d2-a241-4ba2-ba20-e4da565383a6,tumbling machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1d70e660-1114-41c6-926a-053541460d88,sports equipment repair technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1d8545df-e3d8-4ece-9449-0f2940e97e7c,grinding machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1e3c3e4d-a888-426e-aaf0-022c8b5d743d,water jet cutter operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/218e30f0-bd6c-4120-99ba-9a90665a314f,veneer slicer operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/250d6493-68ab-4d69-ba67-c10293a20f49,photonics engineering technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/2555a1bc-9f30-4371-9499-64793e48cd55,printed circuit board test technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/269c47e7-9017-4aa6-bce8-49e89a696a64,industrial machinery mechanic,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/27f92adf-1384-4c01-8ad0-1680ead6abf9,paper cutter operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/295dbed9-0330-42af-8650-f9296c6eb195,automotive test driver,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/2aa7fbbb-f06e-4454-8ff8-2d799e86ba51,textile machinery technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/2bb8adee-2b84-4d7b-84f9-0620bc09ada8,instrumentation engineering technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/2be85651-c94a-4531-9df8-3cc56932960e,heat sealing machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/2fc8dace-d828-4af3-b0cb-e1cb73726f4b,screw machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/30641348-f9f2-4fe5-ab8c-fe6ff9931a54,medical device engineering technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/3723d7a6-7e65-4735-8235-cb01fb661b2f,paper pulp moulding operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/431f0055-43ca-406c-99f0-fb10a73d684e,planer thicknesser operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/490d0c6f-0dc8-4825-9f17-207749fb1785,ATM repair technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/49b21ca8-04be-4912-a2f7-0170550e18fa,bindery operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4a30b421-2fda-42d6-b7e1-1c31753f061d,insulating tube winder,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4f5e4fb1-58bd-4abd-bb06-4af9203a1518,filing machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4f7e7482-39e7-4f3a-bf11-763620f4b8e0,paper embossing press operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/51c7015c-dc81-4fcb-b15f-619a4656a9fe,electromechanical engineering technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/53c7756d-4114-4c7f-90b0-26717f458ac5,pneumatic systems technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5791a961-4717-4230-a245-a4082a675f04,automation engineering technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/599c2ce9-0e1b-4f63-9d65-1f19b3847efb,forge equipment technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5aff8b2a-298a-456d-957a-274c774e8523,moulding machine technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5c082067-ea18-4ccb-8c43-e70b18ad8120,computer numerical control machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5d46e448-b6bb-48e5-b245-5aad68e06085,oxy fuel burning machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5ed024ab-3b6a-4e06-a7fe-8a29f8469a64,boilermaker,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/60b9b847-d964-4a8a-a756-904080b0f35f,stamping press operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/6175b828-026d-4fb4-8be7-418394e1add0,digital printer,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/63042e8f-dd59-47fe-87f3-3b2ce21f196a,lathe and turning machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/65b88636-2ebb-4049-b509-2f6da5d6ea1c,envelope maker,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/669353c2-3f5a-4bc4-939b-6afb6a0c7d13,metal nibbling operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/6d72138d-2ebb-4a89-b2b2-8c22365b89bf,brazier,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/6dbca2aa-f83b-4567-a4e7-b9a21fb948bf,metal rolling mill operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7109cdfd-1618-43b6-8317-8dc90fa583e6,wood fuel pelletiser,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/71a98a24-e02b-4ba6-b4df-6556d7ae98cc,paper stationery machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7259dc48-004a-4ceb-aa4e-5bbd548c2397,heating technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/73270b73-8c71-445f-a8d3-4647b1ae38d0,paper bag machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/733d65ac-250b-45d7-ba3c-cc5f48e9e11d,laser marking machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7664f3e6-b469-4e1a-b52c-8a7ac866eb5a,wire weaving machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/77a25ee0-94ad-443e-91ea-3e6d3506181b,thread rolling machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7833d5cd-873d-4fdd-b2f8-9762d68494a7,robotics engineering technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/79f435d0-9bc6-4d25-a26a-acbe16569ebb,heating and ventilation service installer,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7aedaa07-3884-4c5b-88f9-80997b2aa54b,welder,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7d9242d3-2a55-45e3-9d67-be76f879de0b,metalworking lathe operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7e08d38d-30c9-4a6f-b88e-b28e87c0b259,wood boring machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7fbe45c6-1914-43ba-9cfb-e0a4e051da92,gravure press operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/80a648c5-ecb7-40e6-a4d4-7680291ffa74,rolling stock engine tester,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8234eee9-1647-460d-8d62-7fe02cb884b0,refrigeration air condition and heat pump technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/862ed9e5-96ec-410d-a0fd-5206a05a7954,deburring machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/865adac9-9bb7-4680-a13d-62b2942974ac,sawmill operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8b8ae0a5-342c-43ae-b856-e1fea6fd6d1c,power tool repair technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8d3cc890-5902-4fac-9438-6098a3ee437c,upsetting machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8f654b67-89f8-4669-8c9c-a4875bf22699,laminating machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/93a8bd5f-c268-46f5-8461-1138a9a96189,drop forging hammer worker,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/9422c30d-c5ef-4fcc-a493-d67ee42189c0,marine electrician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/95a6ecd2-a140-4861-aad7-dcb8cfc1c9a3,slitter operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/97dadd59-d1cb-4fef-81a7-d92eb15572e2,spot welder,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/98164d70-93a8-409c-aa9f-7d56314f4d7f,router operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/9aa2a36f-296e-45fe-9798-b7839e0ed389,electrical engineering technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a0f9903e-2ba5-4b9d-bb0a-a8646db15221,extrusion machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a1c9f8b7-c4ce-4b15-ac3c-3378c300d8f2,milling machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a5245c01-4ca8-406e-a152-620c28530ea8,metal planer operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a67721a6-a95d-4c3b-a48c-f9920941ecd1,straightening machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a77bc925-c441-42f2-92d4-666b103fc025,wood pallet maker,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a945757e-e171-46a9-847a-13cf04f7cd27,band saw operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a98f93a6-b1df-4759-88a9-3234f334afad,screen printer,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/aa3780b7-3b06-40ae-8764-293fec6819d2,drill press operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ad6589cb-ef1e-482d-863d-d80b2eb6b070,hot foil operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ae3f1edd-d191-4a8d-8dfc-099dcdc6f1e8,record press operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/afe9eaa4-433f-4ae6-90ff-afa098ccf1bb,chain making machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b0480558-269d-4903-9bc7-f390cd6a6964,construction equipment technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b0c6f284-f3ed-4820-a62e-4e87869f5a3e,rubber products machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b2cac4bc-abb7-41b3-a515-2ad006b8ebf6,control panel tester,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b322bb4c-bbef-45c2-bd7e-00a97c3ab268,rustproofer,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b343dd0c-8a83-4e13-a79c-0ac52f526c64,aircraft engine tester,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b493b10d-7131-4814-93bb-a2c1be4a095f,office equipment repair technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b50ae5f6-3f67-4cc7-92bb-6cec7214bfc4,motor vehicle engine tester,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/bb131b09-5fdf-4f4f-a76c-402c69cd090a,pulp technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/bc61e0de-2d72-471c-90c1-a9fe371020f9,mechanical forging press worker,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/bc6649ff-05f8-4c98-9db6-9be0d13883a9,laser cutting machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/be0e6189-46a5-4b90-8622-2d1988efba1a,industrial machinery assembler,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c0eb9240-4f70-4393-bdf0-723ce7fdbd36,engineered wood board machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c11e2b53-06f7-465f-9b5c-708016bc96f4,print folding operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c2d5daae-8f8a-45b1-8e76-3284b84ce195,spring maker,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c706886d-5bc7-4430-9a72-051fc483235f,absorbent pad machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c81af273-1112-4b3f-a2a5-b85b1290ae22,laser beam welder,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/cd92596c-bd96-4126-8b67-7bf6ed2ca8fb,marine mechatronics technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ceb5277b-2c4d-4cb9-9b7e-b386e66e11ba,nailing machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/d0d7d777-073f-4c33-8f27-1d4a0e8e626f,pulp control operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/d1974e0c-8f92-473b-a32d-f0616c08b1ff,precision mechanic,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/d63b95e6-cf44-479e-bea2-e93498d171d0,wood router operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/d792974a-077b-44a7-9421-b3ab7fdc7c40,swaging machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/e19a0f13-da49-42cb-8b3a-27da8ce44c8c,glass forming machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/e58eadca-e512-4167-96f1-fff980f117e3,vessel engine tester,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/e6a3ce2e-c0f2-47a7-937a-61ae9abfe1fa,metrology technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/e9a65aca-64f6-450d-a637-1ecf86ba2a53,electron beam welder,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ea4aff10-4d20-4a2b-886b-299c2bd349f1,offset printer,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/eb5df714-15ce-4e31-853c-678d2aba568b,corrugator operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ebe42b55-4801-493f-af18-04a35ebfbb9c,drilling machine operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ecac98ea-9fc3-4475-9b23-8af94f41603d,tool and die maker,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/edf2e989-d7c5-496e-b365-81fc5cb9eb39,mechatronics engineering technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/f0f6d531-eb96-4bad-84ff-8e2999ea68e6,mobile phone repair technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/f7145f87-5940-43f5-bc98-aa1a2b872b47,agricultural machinery technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fa5b9075-3796-4e86-be0a-b5e6d725c25a,metrologist,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fb4819db-03fa-4dc1-a471-2cdc24dcbe6f,surface treatment operator,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fc9a86ec-7ad5-4ccb-a08f-1e369197e14a,paperboard products assembler,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fddb7bd8-f176-4dc8-9d12-32b6072452c9,electric meter technician,1,1,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/33960bab-4423-4808-af6c-ec2b485dba41,building electrician,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/423f4021-322b-4257-9a4e-d6ee5d166fbc,marine upholsterer,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5d009d45-3bb9-4e33-8760-294f59adec8c,electrical mechanic,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5dbb9cf0-b226-402c-a295-2f42ef05ff8b,domestic electrician,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5df63943-f1bc-4438-90f1-92768a7a23c8,industrial electrician,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/69c24e54-567c-4415-b59b-cda97fdbc50c,railway car upholsterer,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/75c5bab4-2546-4ba3-996d-42a9a1bab55d,railway electronic technician,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8862c29b-3810-4fbc-85c7-c9ee87535f73,electrical supervisor,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c332af81-4481-4494-9786-aea1f5c5ffcf,calibration technician,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c932109b-3e4f-43aa-b346-1ea421da0adb,aircraft interior technician,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/d9ab0f3d-078d-42a7-a502-3e739e0aeff6,avionics technician,1,1,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7d9e2a65-758c-4cbd-b66d-3a595d3d63b1,polygraph examiner,1,1,0.4865144,0.4865144
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/76a1a76c-b014-4600-8901-56cb936de7ed,ICT auditor manager,1,0,0.5357511,0.5357511
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0464b062-cea6-4164-b10d-956c61956ae7,ICT security administrator,1,0,0.5249142,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1a165cb5-99ff-4a4e-9e08-97a0fb7ed6f8,offshore renewable energy technician,1,0,0.5249142,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/58db3ac6-5217-4d46-8a4c-126598be1d13,electric power generation engineer,1,0,0.5249142,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a32187fa-bc37-4fc2-8e89-296632bfc271,onshore wind farm technician,1,0,0.5249142,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ac37627c-a999-4779-997e-9795cc4f9a3d,power distribution engineer,1,0,0.5249142,0.5249142
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/3b1ea27c-781c-41eb-821f-214285260dd2,ICT change and configuration manager,1,0,0.5234157,0.5234157
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22,electrical engineer,1,0,0.51102066,0.51102066
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/24161923-e3e6-4096-b377-f1ee8a7ea31b,satellite engineer,1,0,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/3dab5c3f-84d0-4d52-901d-dd262eaea509,research engineer,1,0,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8d410283-865d-4cbb-acae-ac7f69d9cf26,automotive engineer,1,0,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b5eaf231-77ad-4a86-8e54-15cc4398aad2,process engineer,1,0,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/d7e663b2-f042-47d8-9fda-b5b8ba30ca04,aerospace engineer,1,0,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/f9433fdb-dde1-46cf-9e91-b49d243946a7,bioengineer,1,0,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fbceeac6-798b-4307-a825-626707a753ad,calculation engineer,1,0,0.5078392,0.5078392
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fe4a72af-6206-4d86-90c1-b5fb4b5ba2b2,broadcast technician,1,0,0.507343,0.507343
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/02b5b7b0-b856-4ac7-924c-8c35c7880b2a,coating machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/040f62f5-d570-4d3f-b732-c8ea4afc2738,container equipment assembly supervisor,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/04849c5c-9236-4a75-aabb-11c6d03e459c,marine engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/05a55bb3-68d6-4ff0-83fd-46a68a45a598,aerospace engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09,medical device engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0f2c04f1-9001-4a77-884f-1ea16949f6f6,rolling stock engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/11833a96-fc27-4b03-a53d-892ac891a2bb,production engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/16cb1f72-3d8c-4404-84ec-9c31fbd7c86c,welding engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/18a98579-f0b1-4dde-944f-1758dc113099,spark erosion machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/1f97f6e6-0ac7-4e77-88ab-2e3801c5a223,"heating, ventilation, air conditioning engineer",1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/2231ed97-69dc-4b6e-93ee-8c0e5bb5dbb8,metal furniture machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/23eddde2-5e8b-4953-b275-cdc864e6d976,greaser,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/3046f16d-1f7d-408f-b9a5-155410fbd2ea,pneumatic engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/3a8a7f87-d394-42cd-804b-7a32375b90f0,metal sawing machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/3bdf6206-e952-4177-a17b-2a03bfee2144,wood sander,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/3e524c3e-3ee8-47dd-8463-2c2a41b548bf,electrical equipment assembler,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/3e9c6f2a-dc20-4366-aeb9-99dffd635b4c,stone planer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/40517ed4-2769-4283-a15b-4b0d939bd2d3,production supervisor,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/42381741-f3a7-4b26-b35c-da6fad9f1cfd,product development engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/444c9aa9-578d-4a9a-9949-99ef1bacb20e,automotive engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4568a282-3904-4dfc-a6ec-e847b3ca90e8,plastic and rubber products manufacturing supervisor,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/48318e0f-b54b-4654-b296-47c8e544da23,edge bander operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4a1d28b0-eca5-4c0a-a49d-ce974e7d04ce,surface grinding machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4a5ceaae-0f05-4091-bdbf-59f250ce6374,plastic heat treatment equipment operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4b6b09e6-e1f6-46d8-b16a-d3522c367983,cylindrical grinder operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4d34a9ee-2653-4da0-bef7-f59294577224,electronics engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4d5bd738-9202-4fd7-bd8c-7dbe914048de,agricultural engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab,sensor engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/502fe307-ae65-46cb-a485-e559b9a35266,injection moulding operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/53be4843-8f31-4645-b25c-9a5bbb04f6b6,process engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/53d2052f-edc0-4f44-8be1-164526412bfe,industrial engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/551a6797-3ca9-41fc-9dca-9a982a8fd8a6,robotics engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/565987b2-b980-4881-891c-cc4d5ab61d07,stone engraver,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/57b89801-0e43-4b19-bf29-ef9a51d65155,metal annealer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/5a58da2b-2fa0-40d4-a9f5-fead48e7de88,naval architect,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/610bee9f-d7f0-4b18-918e-f2a4a91f8912,stone driller,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/631e504f-0db4-4e03-bf90-3f00d550170f,sensor engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/68ad860f-c5cd-420f-840f-993e3e813508,consumer goods inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/6e18b923-7c5f-42d7-8ff0-de8d8ba30dbf,vacuum forming machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7443811e-6760-44a2-af95-1b9c791733a8,lacquer spray gun operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/753939ad-b03e-47cd-913b-56f30b5ae8fc,product assembly inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/772e57c5-fb25-4b0c-8cc8-f8944a9edfbc,fibreglass machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332,photonics engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba,electromechanical engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7db415ec-0437-4a5e-95ea-622ea9f13dd0,metal production supervisor,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7f35043b-ebb5-40bf-9974-46a29915f6bf,book-sewing machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/7f46db3a-754b-4bda-b287-5932fa062ee9,power electronics engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/84219dd7-eb68-426e-9ec3-431eceb61c96,rolling stock engine inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/84d45916-eef7-4c58-a73c-3639c9965014,plastic furniture machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/869e3a85-6e4c-4e3c-b14f-a8399c1abd2d,automated assembly line operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/88b21b2f-350c-4f41-9680-a53f8ea708ed,filament winding operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8b490c1a-2f8c-4693-bcfa-ecfc88838a8e,motor vehicle engine inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8b98dbc3-11f7-4720-86de-dcecee368be1,blow moulding machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8ba8acb8-c0f2-4679-ae15-3a4f6e876c6f,plastic rolling machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab,microelectronics engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004,computer hardware engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/96514fed-b9a9-4df3-ab0b-20676369297d,cake press operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/9980a417-f990-495a-ae11-66a112737f3b,glass annealer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/9a903a4a-282d-4724-a7de-1918b41d2965,motor vehicle assembly inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a001cf0d-b0eb-420a-a110-9408448ba8b8,stone splitter,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/a464015d-a622-44aa-a4fe-bf01e412e120,vessel assembly inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7,mechatronics engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589,optical engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ac401ec0-7ce0-423f-b8b5-167da9e046a7,fibre machine tender,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133,optomechanical engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b10d45f4-482d-4301-bc39-da206b17815c,aircraft assembly inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/b31e404e-9af6-457d-a58a-208f612eeba3,mechanical engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/bb2933e9-f6ec-4ab0-b2ea-3cc34cf56d18,electroplating machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827,automation engineer,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/bcb7efae-2374-4ea7-a8e7-a77e4c6ecfc8,mineral crushing operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/bcc21c63-7eee-4520-8fa7-43eefd389668,industrial engineering technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/becbe3ca-e000-40c0-9f67-5c4035b930ea,computer hardware test technician,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c0a35355-be44-44c0-82d2-acf8363ed45e,metal product quality control inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c22724a3-079c-4897-bd92-d99e068b6ffc,pultrusion machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c44a118d-18c1-46ac-985f-3e802a064b73,control panel assembler,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c44f9f8c-46a6-40da-9630-cc568a18cc51,ornamental metal worker,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c453886f-a8f0-434c-be0e-e6a12c49954f,stone polisher,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/c5b45ebe-0e9f-4bc4-9563-7fdf31115e53,rolling stock assembly inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/cdef4961-fcc2-4e00-bfe8-4480b33aa6f3,welding coordinator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ce5b1eb1-5862-4f00-a813-0f90aecd5ef5,dip tank operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/da6220cb-21ee-4076-8796-1e922b44c394,vessel engine inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/e9f0b7ae-c848-464e-af9d-55eb87a592e0,anodising machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ec238461-93b6-4516-a251-52d1153b53ac,compression moulding machine operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/ef9c2914-2f3d-464c-ae0a-d02b403dc7e9,aircraft engine inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/f7ddb68a-beba-4aa9-b5cb-d174d70ea724,welding inspector,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fd2dd3e9-498f-490f-8589-8c1eea05aa3f,punch press operator,1,0,0.5011488,0.5011488
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/0ac8fe65-32e6-4c25-8345-2b87bc7b2698,aircraft engine specialist,1,0,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/81a1e1f5-cce3-444d-bfc3-9771236d57cd,aircraft maintenance engineer,1,0,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/83191970-020d-4350-b2e0-be971533d286,electronics production supervisor,1,0,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/91373a70-79b6-47a2-aa50-07dfe20dd258,aircraft maintenance technician,1,0,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/fd1c83b3-60d5-4a5f-86c5-94dc2842c246,integrated circuit design engineer,1,0,0.49142963,0.49142963
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/102e75c8-3b47-4964-9b47-30a980aed25c,ICT disaster recovery analyst,1,0,0.4911122,0.4911122
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/068370e0-9c27-4814-87d0-44fbb3140815,recruitment consultant,1,0,0.4865144,0.4865144
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/6d03eaef-1ce5-4a1e-bb41-0908e1af1b65,occupational analyst,1,0,0.4865144,0.4865144
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/f84aae41-28cc-4aa0-a0df-e7c3030516fd,dating service consultant,1,0,0.4865144,0.4865144
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212,integration engineer,1,0,0.46633023,0.46633023
+Generate and execute software unit tests,http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1,embedded system designer,1,0,0.46633023,0.46633023
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c,user interface developer,9,2,0.5013821,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/2ed56c3f-61d6-4f7e-9ef8-8849eb102e4c,mobile application developer,8,2,0.49094754,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d,ICT application configurator,8,2,0.49094754,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02,embedded systems software developer,8,2,0.49094754,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/9ebaf3f0-0be0-47b7-b2b1-b3b04130fa81,digital games developer,8,2,0.49094754,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135,ICT system developer,8,2,0.49094754,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b,industrial mobile devices software developer,8,2,0.49094754,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7,ICT application developer,8,2,0.49094754,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d,web developer,8,2,0.49094754,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1,software developer,8,2,0.49094754,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d,ICT network engineer,7,1,0.48332337,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/dc8ef7da-d2c0-4474-96a0-6d0385eeec1e,webmaster,6,2,0.4883622,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b,software tester,6,1,0.466149,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/38a7f453-a7f0-45d2-a74d-5b92506e4a21,computer hardware engineering technician,6,0,0.46442148,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004,computer hardware engineer,6,0,0.46442148,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/62979364-6fac-41f2-87ca-202bca19a6ab,computer-aided design operator,5,5,0.4994398,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/5c082067-ea18-4ccb-8c43-e70b18ad8120,computer numerical control machine operator,5,1,0.4994398,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212,integration engineer,5,1,0.47717133,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/d84bf1d7-ef99-40c4-a407-3791d6531b44,telecommunications engineering technician,5,1,0.47717133,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/98c3d8f8-e3a8-49b7-9e58-236f25a6f6a0,system configurator,5,0,0.45378876,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae,ICT system architect,5,0,0.4438234,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/6e5ceba0-df96-465f-adb4-2e06ae715d43,numerical tool and process control programmer,4,4,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/c3b82711-273d-4fa8-8de7-0ac3d99c16fc,computer science lecturer,4,4,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7,application engineer,4,2,0.55045503,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/35553663-deab-4d9a-bf22-15c1625d28e8,artificial intelligence engineer,4,1,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/81480b40-a318-47f3-9b2c-56b69ed67d95,ICT network administrator,4,1,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/02eb0ae6-ecdd-4602-9c8e-60ffe6dbe1e2,telecommunications engineer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86,software analyst,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1,embedded system designer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84,data warehouse designer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb,enterprise architect,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/3e7bf729-4442-4b9f-ad5e-83111963795c,ICT technician,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/7b1b5da8-573a-49bb-a38e-68725a949f4f,chief technology officer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f,knowledge engineer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/82f90e87-de92-4678-adae-61d3e5f7e1e4,chief information officer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427,database designer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/96e20037-0a25-4bf6-a25e-808d1605d890,user interface designer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/a44a1dc5-be08-4840-8bd5-770c4ac1ca6d,ICT security technician,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471,ICT system analyst,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d,database developer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/b37d15b3-402e-4792-8292-f18c0de7aca6,mobile devices technician,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/bab5fa79-7f96-4e21-87b6-1eba560b8d9a,3D modeller,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e,software architect,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/d5a43cd3-230e-46d0-ba05-d67d61e5cfbb,digital media designer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/d68ff35f-e34d-4e32-88ab-d6c06a6c25b9,digital games designer,4,0,0.4502495,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/3b1ea27c-781c-41eb-821f-214285260dd2,ICT change and configuration manager,3,1,0.48594168,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5,ethical hacker,2,2,0.52339375,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1c5a45b9-440e-4726-b565-16a952abd341,computer vision engineer,2,2,0.5031227,0.5443166
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1c5a896a-e010-4217-a29a-c44db26e25da,embedded systems security engineer,2,2,0.5031227,0.5443166
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/24135b84-cbdd-4d42-9ed2-02fd982d15b2,blockchain developer,2,2,0.5031227,0.5443166
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/7b4744a8-a4e3-4104-9b74-4ec54108af7b,microelectronics designer,2,2,0.47860223,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/82616669-cc82-4455-9332-a2df209e9f3e,microelectronics smart manufacturing engineer,2,2,0.47860223,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc,database administrator,2,1,0.6405299,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/5791a961-4717-4230-a245-a4082a675f04,automation engineering technician,2,0,0.49276537,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/6565dc02-14e4-4819-b99c-44c352000f43,electronic equipment assembler,2,0,0.49276537,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/7833d5cd-873d-4fdd-b2f8-9762d68494a7,robotics engineering technician,2,0,0.49276537,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/7f46db3a-754b-4bda-b287-5932fa062ee9,power electronics engineer,2,0,0.49276537,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab,microelectronics engineer,2,0,0.49276537,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827,automation engineer,2,0,0.49276537,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/edf2e989-d7c5-496e-b365-81fc5cb9eb39,mechatronics engineering technician,2,0,0.49276537,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22,electrical engineer,2,0,0.46990934,0.4993737
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/c0c1364d-f784-4e76-8d3f-1e998dc6545d,security alarm technician,2,0,0.42574126,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/18459eb0-5506-4692-9889-d1f9a2b989eb,engraving machine operator,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1d8545df-e3d8-4ece-9449-0f2940e97e7c,grinding machine operator,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1e3c3e4d-a888-426e-aaf0-022c8b5d743d,water jet cutter operator,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/3a8a7f87-d394-42cd-804b-7a32375b90f0,metal sawing machine operator,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/63042e8f-dd59-47fe-87f3-3b2ce21f196a,lathe and turning machine operator,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/a1c9f8b7-c4ce-4b15-ac3c-3378c300d8f2,milling machine operator,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/bc6649ff-05f8-4c98-9db6-9be0d13883a9,laser cutting machine operator,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/c81af273-1112-4b3f-a2a5-b85b1290ae22,laser beam welder,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/e9a65aca-64f6-450d-a637-1ecf86ba2a53,electron beam welder,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/fd2dd3e9-498f-490f-8589-8c1eea05aa3f,punch press operator,1,1,0.696201,0.696201
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/0c448a27-10ec-43ba-b880-d9938bade424,digital forensics expert,1,1,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/a9c30651-ccbc-4a80-900c-7880615cdf6e,instructional designer,1,1,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/bd9d395a-d587-45c6-8d72-ceef226df9e1,ICT system integration consultant,1,1,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/22585d1e-48aa-45a6-a8c3-d072b4ff1b31,media integration operator,1,1,0.5443166,0.5443166
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/ac60ed89-da6d-4f1a-93ee-1031789c7796,court reporter,1,1,0.48366642,0.48366642
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/349ee6f6-c295-4c38-9b98-48765b55280e,cloud engineer,1,1,0.46192884,0.46192884
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db,bioinformatics scientist,1,1,0.46192884,0.46192884
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/7648d5d9-cfab-4981-ba82-b66a9a41d37e,battery system engineer,1,1,0.46192884,0.46192884
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/8edd8bff-cb59-4c9c-ab0f-59e77d18be48,predictive maintenance expert,1,1,0.46192884,0.46192884
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/c2d36adb-ecf4-4823-980b-d84b0f11b2c8,battery simulation engineer,1,1,0.46192884,0.46192884
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/ebe936e2-64e7-4777-94d6-42caa5a12409,script writer,1,1,0.41276667,0.41276667
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/0464b062-cea6-4164-b10d-956c61956ae7,ICT security administrator,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/0ab5c12c-c1c1-4772-8345-aa287d0e391d,ICT test analyst,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/33e4f026-a823-4ffc-99e4-60d3fe597a1e,digital games tester,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67,database integrator,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/4543bf7b-8ffb-4ade-88b9-58da34366f04,ICT capacity planner,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/50af07f0-7a75-424e-a66d-5a9deea10f4c,ICT accessibility tester,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/52d5edc9-7902-4cd3-8b06-6bd77c98d440,ICT system tester,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/52df9d56-efd4-48d0-ad93-59231943fc4c,3D animator,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/5f50290d-f520-4a69-85c7-1390d2a4a8b6,ICT usability tester,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/731f38f1-b08f-4dd5-a25e-f8627c038273,ICT integration tester,1,0,0.58485866,0.58485866
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/0022f466-426c-41a4-ac96-a235c945cf97,air traffic safety technician,1,0,0.5450858,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1d196f32-05ca-4ea5-a347-4fccbb3da863,marine electronics technician,1,0,0.5450858,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/490d0c6f-0dc8-4825-9f17-207749fb1785,ATM repair technician,1,0,0.5450858,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/5001506f-dd7d-4801-92ac-6f7e93b45133,industrial robot controller,1,0,0.5450858,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/b7aa4b4e-dbb6-4f58-b36c-35b9a7267972,computer hardware repair technician,1,0,0.5450858,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/f0f6d531-eb96-4bad-84ff-8e2999ea68e6,mobile phone repair technician,1,0,0.5450858,0.5450858
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1a1ea837-0103-4230-8756-533a77c5f9f4,container equipment assembler,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1c9937fe-5eaa-4f7e-ba31-77e6e7db022c,aerospace engineering drafter,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1e2aaeff-5bf1-4649-9f09-9ebbd5cc3501,electromechanical drafter,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/2515bd46-ccd4-4561-97d1-b9544608a76e,electrical drafter,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/2ac509e8-2850-42c3-b11d-d24077a7921b,marine engineering drafter,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/2ff73126-7aff-4233-9d9c-d8725e1c6822,pipe welder,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/341b405b-12cd-4ece-9b4b-cbfae3551ea3,automotive engineering drafter,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/3f73120d-cece-4848-9fb4-61fdbaa7eba5,rolling stock engineering drafter,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/599f34f0-bdf7-49e3-b5a9-f5d55f9e6873,plastic products assembler,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/7eadbe33-d62e-4a82-8e3a-e89df5aefb2c,wood products assembler,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/869e3a85-6e4c-4e3c-b14f-a8399c1abd2d,automated assembly line operator,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/898f99f7-8c0a-4212-9e58-9ab00379e5ae,fitter and turner,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/91e35fd9-ac59-48ef-8416-c06a201b2da8,printed circuit board designer,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/95da5e1b-cc1e-46bd-96c4-81d4f7003080,manufactured wooden building assembler,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407,drafter,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/af2f3615-63ab-44dc-957d-c9660410d336,metal products assembler,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/be0e6189-46a5-4b90-8622-2d1988efba1a,industrial machinery assembler,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/c52129d9-4656-4ce8-ba13-8a72a51d5400,product development engineering drafter,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/d849fd2a-5210-434b-a50b-2d92de3a4bac,electronics drafter,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/defbf906-e823-44b4-872f-99406c51022b,"heating, ventilation, air conditioning (and refrigeration) drafter",1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/fc9a86ec-7ad5-4ccb-a08f-1e369197e14a,paperboard products assembler,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/fd1c83b3-60d5-4a5f-86c5-94dc2842c246,integrated circuit design engineer,1,0,0.5167595,0.5167595
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/22f86890-f68b-402f-a711-3e6df4913271,typist,1,0,0.48366642,0.48366642
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/42c769cd-4c60-4bac-94d2-29a492b82b74,scopist,1,0,0.48366642,0.48366642
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/276ba420-ef09-4a0e-b215-2c2e2f80ad28,chief ICT security officer,1,0,0.46192884,0.46192884
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09,medical device engineer,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/0ea36a48-a27d-4515-b61f-3cab395cf60f,microelectronics engineering technician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/1a6d1acf-5956-4ba0-95bf-b15b05a02013,mechatronics assembler,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/2168e49d-e58a-43ec-a15e-8e173939b255,microelectronics maintenance technician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/250d6493-68ab-4d69-ba67-c10293a20f49,photonics engineering technician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/26e1add0-da3f-4ed6-aa91-791cb550146f,microsystem engineering technician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/27811419-407f-4868-a388-2f7df7aafd91,electronics engineering technician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/2bb8adee-2b84-4d7b-84f9-0620bc09ada8,instrumentation engineering technician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/30641348-f9f2-4fe5-ab8c-fe6ff9931a54,medical device engineering technician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/33960bab-4423-4808-af6c-ec2b485dba41,building electrician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/4910419f-b4af-4f59-b544-9dbebc8a74f0,electrician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/51c7015c-dc81-4fcb-b15f-619a4656a9fe,electromechanical engineering technician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/5df63943-f1bc-4438-90f1-92768a7a23c8,industrial electrician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/631e504f-0db4-4e03-bf90-3f00d550170f,sensor engineering technician,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba,electromechanical engineer,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4,microsystem engineer,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7,mechatronics engineer,1,0,0.44044498,0.44044498
+Generate computer program code from instructions,http://data.europa.eu/esco/occupation/dcfeb6e4-f39d-49fb-96cd-23292fb3e037,optoelectronic engineering technician,1,0,0.44044498,0.44044498

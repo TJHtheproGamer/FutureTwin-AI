@@ -1,0 +1,729 @@
+{
+  "source": "UN Statistics Division SDG API V5",
+  "retrieved_at": "2026-10-23T15:24:27.121Z",
+  "country_code": 458,
+  "country": "Malaysia",
+  "release": "2026.Q3.G.01",
+  "series": [
+    {
+      "code": "SH_ACS_UNHC_25",
+      "response": {
+        "series": "SH_ACS_UNHC_25",
+        "geoAreaCode": 458,
+        "geoAreaName": "Malaysia",
+        "dimensions": [
+          {
+            "value": "75",
+            "timePeriodStart": "2007",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "74",
+            "timePeriodStart": "2006",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "74",
+            "timePeriodStart": "2005",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "73",
+            "timePeriodStart": "2004",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "72",
+            "timePeriodStart": "2003",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "72",
+            "timePeriodStart": "2002",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "71",
+            "timePeriodStart": "2001",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "71",
+            "timePeriodStart": "2000",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "75",
+            "timePeriodStart": "2008",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "76",
+            "timePeriodStart": "2009",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "80",
+            "timePeriodStart": "2022",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "79",
+            "timePeriodStart": "2021",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "80",
+            "timePeriodStart": "2020",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "80",
+            "timePeriodStart": "2019",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "80",
+            "timePeriodStart": "2018",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "80",
+            "timePeriodStart": "2017",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "80",
+            "timePeriodStart": "2016",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "80",
+            "timePeriodStart": "2015",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "79",
+            "timePeriodStart": "2014",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "79",
+            "timePeriodStart": "2013",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "78",
+            "timePeriodStart": "2012",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "78",
+            "timePeriodStart": "2011",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "77",
+            "timePeriodStart": "2010",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "80",
+            "timePeriodStart": "2023",
+            "Reporting Type": "G"
+          }
+        ]
+      },
+      "metadata": {
+        "goal": "3",
+        "target": "3.8",
+        "indicator": "3.8.1",
+        "release": "2026.Q3.G.01",
+        "code": "SH_ACS_UNHC_25",
+        "description": "Universal health coverage (UHC) service coverage index, 2025 methodology",
+        "uri": "/v1/sdg/Series/SH_ACS_UNHC_25"
+      },
+      "source_url": "https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/Series/SH_ACS_UNHC_25/GeoArea/458/DataSlice"
+    },
+    {
+      "code": "SH_H2O_SAFE",
+      "response": {
+        "series": "SH_H2O_SAFE",
+        "geoAreaCode": 458,
+        "geoAreaName": "Malaysia",
+        "dimensions": [
+          {
+            "value": "91.83441925",
+            "timePeriodStart": "2000",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "91.99766541",
+            "timePeriodStart": "2001",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "92.15773773",
+            "timePeriodStart": "2002",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "92.31480408",
+            "timePeriodStart": "2003",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "92.46887207",
+            "timePeriodStart": "2004",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "92.61951447",
+            "timePeriodStart": "2005",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "92.76711273",
+            "timePeriodStart": "2006",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "92.91159821",
+            "timePeriodStart": "2007",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "93.05299377",
+            "timePeriodStart": "2008",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "93.19098663",
+            "timePeriodStart": "2009",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "93.32585907",
+            "timePeriodStart": "2010",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "93.44332886",
+            "timePeriodStart": "2011",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "93.55597687",
+            "timePeriodStart": "2012",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "93.66612244",
+            "timePeriodStart": "2013",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "93.77411652",
+            "timePeriodStart": "2014",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "93.87965393",
+            "timePeriodStart": "2015",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "93.98299408",
+            "timePeriodStart": "2016",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "94.08298492",
+            "timePeriodStart": "2017",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "94.17988586",
+            "timePeriodStart": "2018",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "94.27375031",
+            "timePeriodStart": "2019",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "94.36463928",
+            "timePeriodStart": "2020",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "94.45270538",
+            "timePeriodStart": "2021",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "94.53790283",
+            "timePeriodStart": "2022",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "94.62046814",
+            "timePeriodStart": "2023",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "94.70036316",
+            "timePeriodStart": "2024",
+            "Location": "ALLAREA",
+            "Reporting Type": "G"
+          }
+        ]
+      },
+      "metadata": {
+        "goal": "6",
+        "target": "6.1",
+        "indicator": "6.1.1",
+        "release": "2026.Q3.G.01",
+        "code": "SH_H2O_SAFE",
+        "description": "Proportion of population using safely managed drinking water services, by urban/rural (%)",
+        "uri": "/v1/sdg/Series/SH_H2O_SAFE"
+      },
+      "source_url": "https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/Series/SH_H2O_SAFE/GeoArea/458/DataSlice"
+    },
+    {
+      "code": "SE_TOT_PRFL",
+      "response": {
+        "series": "SE_TOT_PRFL",
+        "geoAreaCode": 458,
+        "geoAreaName": "Malaysia",
+        "dimensions": [
+          {
+            "value": "65.9",
+            "timePeriodStart": "2019",
+            "Sex": "FEMALE",
+            "Education level": "PRIMAR",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "64",
+            "timePeriodStart": "2019",
+            "Sex": "BOTHSEX",
+            "Education level": "PRIMAR",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "52",
+            "timePeriodStart": "2024",
+            "Sex": "BOTHSEX",
+            "Education level": "PRIMAR",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "58",
+            "timePeriodStart": "2019",
+            "Sex": "BOTHSEX",
+            "Education level": "PRIMAR",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "49",
+            "timePeriodStart": "2024",
+            "Sex": "BOTHSEX",
+            "Education level": "PRIMAR",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "40.67198",
+            "timePeriodStart": "2009",
+            "Sex": "BOTHSEX",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "48.24566",
+            "timePeriodStart": "2012",
+            "Sex": "BOTHSEX",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "58.50222",
+            "timePeriodStart": "2018",
+            "Sex": "BOTHSEX",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "41.02",
+            "timePeriodStart": "2022",
+            "Sex": "BOTHSEX",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "56.03299",
+            "timePeriodStart": "2009",
+            "Sex": "BOTHSEX",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "47.27839",
+            "timePeriodStart": "2012",
+            "Sex": "BOTHSEX",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "62.75743",
+            "timePeriodStart": "2015",
+            "Sex": "BOTHSEX",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "54.1672",
+            "timePeriodStart": "2018",
+            "Sex": "BOTHSEX",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "41.88",
+            "timePeriodStart": "2022",
+            "Sex": "BOTHSEX",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "67.8",
+            "timePeriodStart": "2019",
+            "Sex": "FEMALE",
+            "Education level": "PRIMAR",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "60.45583",
+            "timePeriodStart": "2018",
+            "Sex": "FEMALE",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "44.54",
+            "timePeriodStart": "2022",
+            "Sex": "FEMALE",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "61.04351",
+            "timePeriodStart": "2018",
+            "Sex": "FEMALE",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "49.87",
+            "timePeriodStart": "2022",
+            "Sex": "FEMALE",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "60.8",
+            "timePeriodStart": "2019",
+            "Sex": "MALE",
+            "Education level": "PRIMAR",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "50.4",
+            "timePeriodStart": "2019",
+            "Sex": "MALE",
+            "Education level": "PRIMAR",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "56.44509",
+            "timePeriodStart": "2018",
+            "Sex": "MALE",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "37.49",
+            "timePeriodStart": "2022",
+            "Sex": "MALE",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_MATH"
+          },
+          {
+            "value": "46.92655",
+            "timePeriodStart": "2018",
+            "Sex": "MALE",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          },
+          {
+            "value": "33.85",
+            "timePeriodStart": "2022",
+            "Sex": "MALE",
+            "Education level": "LOWSEC",
+            "Reporting Type": "G",
+            "Type of skill": "SKILL_READ"
+          }
+        ]
+      },
+      "metadata": {
+        "goal": "4",
+        "target": "4.1",
+        "indicator": "4.1.1",
+        "release": "2026.Q3.G.01",
+        "code": "SE_TOT_PRFL",
+        "description": "Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)",
+        "uri": "/v1/sdg/Series/SE_TOT_PRFL"
+      },
+      "source_url": "https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/Series/SE_TOT_PRFL/GeoArea/458/DataSlice"
+    },
+    {
+      "code": "EG_FEC_RNEW",
+      "response": {
+        "series": "EG_FEC_RNEW",
+        "geoAreaCode": 458,
+        "geoAreaName": "Malaysia",
+        "dimensions": [
+          {
+            "value": "5.34",
+            "timePeriodStart": "2017",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "5.42",
+            "timePeriodStart": "2018",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "5.76",
+            "timePeriodStart": "2019",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "7.1",
+            "timePeriodStart": "2020",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "7.57",
+            "timePeriodStart": "2021",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "7.78",
+            "timePeriodStart": "2022",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "8.05",
+            "timePeriodStart": "2023",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "4.55",
+            "timePeriodStart": "2016",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "3.53",
+            "timePeriodStart": "2015",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "2.88",
+            "timePeriodStart": "2013",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "6.93",
+            "timePeriodStart": "1993",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "7.08",
+            "timePeriodStart": "1994",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "6.32",
+            "timePeriodStart": "1995",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "5.04",
+            "timePeriodStart": "1996",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "4.32",
+            "timePeriodStart": "1997",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "4.73",
+            "timePeriodStart": "1998",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "5.07",
+            "timePeriodStart": "1999",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "4.59",
+            "timePeriodStart": "2000",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "4.44",
+            "timePeriodStart": "2001",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "3.24",
+            "timePeriodStart": "2014",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "3.74",
+            "timePeriodStart": "2002",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "3.38",
+            "timePeriodStart": "2004",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "3.16",
+            "timePeriodStart": "2005",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "3.28",
+            "timePeriodStart": "2006",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "2.99",
+            "timePeriodStart": "2007",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "3.18",
+            "timePeriodStart": "2008",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "2.43",
+            "timePeriodStart": "2009",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "2.11",
+            "timePeriodStart": "2010",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "2.32",
+            "timePeriodStart": "2011",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "2.66",
+            "timePeriodStart": "2012",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "3.49",
+            "timePeriodStart": "2003",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "6.92",
+            "timePeriodStart": "1992",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "7.61",
+            "timePeriodStart": "1991",
+            "Reporting Type": "G"
+          },
+          {
+            "value": "8.34",
+            "timePeriodStart": "1990",
+            "Reporting Type": "G"
+          }
+        ]
+      },
+      "metadata": {
+        "goal": "7",
+        "target": "7.2",
+        "indicator": "7.2.1",
+        "release": "2026.Q3.G.01",
+        "code": "EG_FEC_RNEW",
+        "description": "Renewable energy share in the total final energy consumption (%)",
+        "uri": "/v1/sdg/Series/EG_FEC_RNEW"
+      },
+      "source_url": "https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/Series/EG_FEC_RNEW/GeoArea/458/DataSlice"
+    }
+  ]
+}
